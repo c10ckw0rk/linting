@@ -1,0 +1,10 @@
+.idea
+node_modules
+.DS_Store
+wp-content/themes/fydo/.idea/workspace.xml
+wp-content/themes/fydo/.idea
+wp-content/themes/.DS_Store
+.env
+.idea/fydo.iml
+style/.sass-cache
+api/vendor
