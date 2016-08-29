@@ -27,6 +27,9 @@ linters:
   LeadingZero:
     enabled: false
 
+  ImportantRule:
+    enabled: false  
+
   NameFormat:
     enabled: true
 
@@ -55,8 +58,8 @@ linters:
 
   Indentation:
       severity: warning
-      character: tab
-      width: 1
+      character: spaces
+      width: 4
 
   PseudoElement:
       enabled: false

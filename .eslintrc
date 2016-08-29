@@ -54,6 +54,6 @@
 		"no-new": 0,
 		"no-underscore-dangle": ["error", { "allowAfterThis": true }],
 		"react/jsx-indent" : [0, "tab"],
-		"indent" : [1, "tab"]
+		"indent" : 2
 	}
 }
