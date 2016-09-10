@@ -1,12 +1,11 @@
 {
-  "name": "linting",
+  "name": "c10ckw0rks-cs",
   "version": "1.0.0",
   "private": true,
-  "devDependencies": {
-    "eslint": "^3.3.1",
-    "eslint-config-airbnb": "^10.0.1",
-    "eslint-plugin-import": "^1.13.0",
-    "eslint-plugin-jsx-a11y": "^2.1.0",
-    "eslint-plugin-react": "^6.0.0"
+  "dependencies": {
+    "eslint": "3.5.0",
+    "eslint-plugin-import": "1.13.0",
+    "eslint-plugin-jsx-a11y": "2.1.0",
+    "eslint-plugin-react": "6.0.0"
   }
 }

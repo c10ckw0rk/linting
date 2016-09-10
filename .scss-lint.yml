@@ -15,6 +15,9 @@ linters:
   BemDepth:
     enabled: true
 
+  SpaceAfterComma:
+    enabled: false  
+
   SingleLinePerSelector:
     enabled: false
 
@@ -28,7 +31,7 @@ linters:
     enabled: false
 
   ImportantRule:
-    enabled: false  
+    enabled: false
 
   NameFormat:
     enabled: true
@@ -61,5 +64,12 @@ linters:
       character: spaces
       width: 4
 
+  Comment:
+      enabled: false
+
   PseudoElement:
       enabled: false
+
+  VendorPrefix:
+    enabled: true
+    severity: warning
