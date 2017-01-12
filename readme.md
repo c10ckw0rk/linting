@@ -9,4 +9,4 @@ npm install -g  eslint eslint-plugin-import eslint-plugin-html
 
 ```
 
-Place .scss-lint.yml in ~/
+Place .scss-lint.yml and .tern-config in ~/

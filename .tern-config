@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "browser",
+        "jquery",
+        "ecmascript"
+    ],
+    "ecmaVersion": 6,
+    "plugins": {
+        "node": {},
+        "modules": {},
+        "es_modules": {},
+        "node_resolve": {},
+        "commonjs": {}
+    }
+}
